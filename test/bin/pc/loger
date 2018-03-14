@@ -1,0 +1,128 @@
+Mar 7, 2018 2:49:57 PM:STARTING host=kic10138, room=room1, user=ralph, debug=true.
+Mar 7, 2018 2:49:57 PM:<serviceIDNotify sidIn="1ba5bc83-b8c8-4820-8ea9-b4394cff63df"/>
+Mar 7, 2018 2:50:27 PM:<ping/>
+Mar 7, 2018 2:50:27 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@6f75e721"/>
+Mar 7, 2018 2:50:27 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@28c61da3" cb="topLevel" args="[Ljava.lang.Object;@47bcbfc8"/>
+Mar 7, 2018 2:50:27 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:50:32 PM:<ping/>
+Mar 7, 2018 2:50:32 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@123a208"/>
+Mar 7, 2018 2:50:32 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@101ac595" cb="topLevel" args="[Ljava.lang.Object;@6813d62f"/>
+Mar 7, 2018 2:50:32 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:50:37 PM:<ping/>
+Mar 7, 2018 2:50:37 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@47a784b0"/>
+Mar 7, 2018 2:50:37 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@713a5c29" cb="topLevel" args="[Ljava.lang.Object;@37ca09f6"/>
+Mar 7, 2018 2:50:37 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:50:42 PM:<ping/>
+Mar 7, 2018 2:50:42 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@dc5a0fc"/>
+Mar 7, 2018 2:50:42 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@2e2b0943" cb="topLevel" args="[Ljava.lang.Object;@d53c3bb"/>
+Mar 7, 2018 2:50:42 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:50:47 PM:<ping/>
+Mar 7, 2018 2:50:47 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@2638e332"/>
+Mar 7, 2018 2:50:47 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@5b8282f5" cb="topLevel" args="[Ljava.lang.Object;@2d95e9d7"/>
+Mar 7, 2018 2:50:47 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:50:52 PM:<ping/>
+Mar 7, 2018 2:50:52 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@265ebf2d"/>
+Mar 7, 2018 2:50:52 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@5b6ee35c" cb="topLevel" args="[Ljava.lang.Object;@143457ee"/>
+Mar 7, 2018 2:50:52 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:50:57 PM:<ping/>
+Mar 7, 2018 2:50:57 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@b8d8afc"/>
+Mar 7, 2018 2:50:57 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@6d90da77" cb="topLevel" args="[Ljava.lang.Object;@41c8a09a"/>
+Mar 7, 2018 2:50:57 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:02 PM:<ping/>
+Mar 7, 2018 2:51:02 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@580e066d"/>
+Mar 7, 2018 2:51:02 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@f1f27d5" cb="topLevel" args="[Ljava.lang.Object;@64b71723"/>
+Mar 7, 2018 2:51:02 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:07 PM:<ping/>
+Mar 7, 2018 2:51:07 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@c2bd415"/>
+Mar 7, 2018 2:51:07 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@3ff6a96e" cb="topLevel" args="[Ljava.lang.Object;@49a110ca"/>
+Mar 7, 2018 2:51:07 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:12 PM:<ping/>
+Mar 7, 2018 2:51:12 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@5cf9a806"/>
+Mar 7, 2018 2:51:12 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@8ab107c" cb="topLevel" args="[Ljava.lang.Object;@21c65de"/>
+Mar 7, 2018 2:51:12 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:17 PM:<ping/>
+Mar 7, 2018 2:51:17 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@2647d7e9"/>
+Mar 7, 2018 2:51:17 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@4e42b722" cb="topLevel" args="[Ljava.lang.Object;@1eba7666"/>
+Mar 7, 2018 2:51:17 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:22 PM:<ping/>
+Mar 7, 2018 2:51:22 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@39aa06f7"/>
+Mar 7, 2018 2:51:22 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@6c101dba" cb="topLevel" args="[Ljava.lang.Object;@37305cbd"/>
+Mar 7, 2018 2:51:22 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:27 PM:<ping/>
+Mar 7, 2018 2:51:27 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@33953f8c"/>
+Mar 7, 2018 2:51:27 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@4bbb76dd" cb="topLevel" args="[Ljava.lang.Object;@272a5fdd"/>
+Mar 7, 2018 2:51:27 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:32 PM:<ping/>
+Mar 7, 2018 2:51:32 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@6fe7ba53"/>
+Mar 7, 2018 2:51:32 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@484fbace" cb="topLevel" args="[Ljava.lang.Object;@58522084"/>
+Mar 7, 2018 2:51:32 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:37 PM:<ping/>
+Mar 7, 2018 2:51:37 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@6c6ccd5f"/>
+Mar 7, 2018 2:51:37 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@6e2be4d9" cb="topLevel" args="[Ljava.lang.Object;@5b87aa18"/>
+Mar 7, 2018 2:51:37 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:42 PM:<ping/>
+Mar 7, 2018 2:51:42 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@4760290a"/>
+Mar 7, 2018 2:51:42 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@27649daa" cb="topLevel" args="[Ljava.lang.Object;@5f4efac4"/>
+Mar 7, 2018 2:51:42 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:47 PM:<ping/>
+Mar 7, 2018 2:51:47 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@5814df8"/>
+Mar 7, 2018 2:51:47 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@346b3ea0" cb="topLevel" args="[Ljava.lang.Object;@37617c4a"/>
+Mar 7, 2018 2:51:47 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:52 PM:<ping/>
+Mar 7, 2018 2:51:52 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@e8510aa"/>
+Mar 7, 2018 2:51:52 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@7c9b73cf" cb="topLevel" args="[Ljava.lang.Object;@1168dcc2"/>
+Mar 7, 2018 2:51:52 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:51:57 PM:<ping/>
+Mar 7, 2018 2:51:57 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@4da6c777"/>
+Mar 7, 2018 2:51:57 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@3bd51873" cb="topLevel" args="[Ljava.lang.Object;@1c7701cd"/>
+Mar 7, 2018 2:51:57 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:02 PM:<ping/>
+Mar 7, 2018 2:52:02 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@76d66e91"/>
+Mar 7, 2018 2:52:02 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@5d63ab88" cb="topLevel" args="[Ljava.lang.Object;@4e6636d7"/>
+Mar 7, 2018 2:52:02 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:07 PM:<ping/>
+Mar 7, 2018 2:52:07 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@4209f785"/>
+Mar 7, 2018 2:52:07 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@532eb68d" cb="topLevel" args="[Ljava.lang.Object;@1351788b"/>
+Mar 7, 2018 2:52:07 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:12 PM:<ping/>
+Mar 7, 2018 2:52:12 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@23012652"/>
+Mar 7, 2018 2:52:12 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@5f0b384f" cb="topLevel" args="[Ljava.lang.Object;@793767fd"/>
+Mar 7, 2018 2:52:12 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:17 PM:<ping/>
+Mar 7, 2018 2:52:17 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@2e0abe33"/>
+Mar 7, 2018 2:52:17 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@7cfc7e0b" cb="topLevel" args="[Ljava.lang.Object;@7ab3f89b"/>
+Mar 7, 2018 2:52:17 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:22 PM:<ping/>
+Mar 7, 2018 2:52:22 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@3aba6d46"/>
+Mar 7, 2018 2:52:22 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@f9f6b9d" cb="topLevel" args="[Ljava.lang.Object;@100c5043"/>
+Mar 7, 2018 2:52:22 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:27 PM:<ping/>
+Mar 7, 2018 2:52:27 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@682eb543"/>
+Mar 7, 2018 2:52:27 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@691ef7d" cb="topLevel" args="[Ljava.lang.Object;@7226bfb1"/>
+Mar 7, 2018 2:52:27 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:32 PM:<ping/>
+Mar 7, 2018 2:52:32 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@5ef5f289"/>
+Mar 7, 2018 2:52:32 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@56e8bd1" cb="topLevel" args="[Ljava.lang.Object;@c8d6606"/>
+Mar 7, 2018 2:52:32 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:37 PM:<ping/>
+Mar 7, 2018 2:52:37 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@547b661b"/>
+Mar 7, 2018 2:52:37 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@1827e00a" cb="topLevel" args="[Ljava.lang.Object;@6966c0dc"/>
+Mar 7, 2018 2:52:37 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:42 PM:<ping/>
+Mar 7, 2018 2:52:42 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@f280bdb"/>
+Mar 7, 2018 2:52:42 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@4932ed65" cb="topLevel" args="[Ljava.lang.Object;@6eb263f9"/>
+Mar 7, 2018 2:52:42 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:47 PM:<ping/>
+Mar 7, 2018 2:52:47 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@52c024b8"/>
+Mar 7, 2018 2:52:47 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@5e6b0764" cb="topLevel" args="[Ljava.lang.Object;@6c8009"/>
+Mar 7, 2018 2:52:47 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:52 PM:<ping/>
+Mar 7, 2018 2:52:52 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@2f4a1ef0"/>
+Mar 7, 2018 2:52:52 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@259f5494" cb="topLevel" args="[Ljava.lang.Object;@23493764"/>
+Mar 7, 2018 2:52:52 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 2:52:58 PM:<ping/>
+Mar 7, 2018 2:52:58 PM:<getProperty key="[Lnet.jini.core.lookup.ServiceItem;@5bf415ee"/>
+Mar 7, 2018 2:52:58 PM:<migrate obj="dsv.pis.gotag.dexter.Dexter@5ed62744" cb="topLevel" args="[Ljava.lang.Object;@1b2e3fe"/>
+Mar 7, 2018 2:52:58 PM:<getProperty key="topLevel"/>
+Mar 7, 2018 4:57:49 PM:STARTING host=kic10138, room=room1, user=ralph, debug=true.
+Mar 7, 2018 4:57:49 PM:<serviceIDNotify sidIn="563a442c-8f53-4419-a7d6-af47ac58adf1"/>
